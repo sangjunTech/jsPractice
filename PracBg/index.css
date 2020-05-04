@@ -1,0 +1,70 @@
+@import "reset.css";
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    } to {
+        opacity: 1;
+    }
+}
+.logo {
+    background-image: url(https://www.starbucks.co.kr/common/img/common/logo.png);
+    width: 100px;
+    height: 100px;
+    background-size: auto;
+    background-repeat: no-repeat;
+    position : absolute;
+    animation: fadeIn 1s linear;
+    left: 94%;
+    top :3%;
+}
+.name {
+    font-size: 100px;
+    color: white;
+    font-weight: 600;
+    animation: fadeIn 1s linear;
+    width: 50%;
+}
+.copyright {
+    font-size: 30px;
+    color: green;
+    margin-bottom: 3px;
+    font-weight: 100;
+    animation: fadeIn 3s linear;
+    width: 50%;
+}
+section {
+    width: 100%;
+    height: 600px;
+    background-color: black;
+}
+.section2 {
+    background-image: url(https://www.starbucks.co.kr/common/img/main/fav_prod_bg_new.jpg);
+    background-size: auto 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+
+.section3 {
+    background-image: url(https://www.starbucks.co.kr/common/img/main/reserve_bg.jpg);
+    background-size: auto 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.section4 {
+    background-image: url(https://www.starbucks.co.kr/common/img/main/store_bg.jpg);
+    background-size: auto 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.section5 {
+    color: green;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+}
