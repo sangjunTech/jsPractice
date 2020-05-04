@@ -38,6 +38,9 @@ section {
     height: 600px;
     background-color: black;
 }
+.section1 {
+    height: 250px;
+}
 .section2 {
     background-image: url(https://www.starbucks.co.kr/common/img/main/fav_prod_bg_new.jpg);
     background-size: auto 100%;
@@ -67,4 +70,5 @@ section {
     justify-content: center;
     align-items: center;
     font-weight: 700;
+    height: 250px;
 }
