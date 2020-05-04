@@ -65,11 +65,11 @@ section {
 
 .section5 {
     color: green;
-    font-size: 40px;
+    font-size: 15px;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-weight: 700;
+    font-weight: 200;
     height: 250px;
 }
 
@@ -86,5 +86,6 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
-
+    border-radius: 50px;
+    box-shadow: 6px 6px 10px rgb(102, 102, 102);;
 }
