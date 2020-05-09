@@ -8,3 +8,7 @@ HTML, CSS ,Vanilla javascript로 작은 기능들을 구현하며 연습하는 �
  ## `2020/05/08`
 
  HTML & CSS만을 이용한 간단한 Price table & card 레이아웃 연습 프로젝트.
+
+ ## `2020/05/09`
+
+ HTML & CSS를 이용한 card flip effect 연습.
