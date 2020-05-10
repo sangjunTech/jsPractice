@@ -55,10 +55,19 @@ h2 {
     margin-bottom: 20px;
 }
 
+.page {
+    transition: .2s linear;
+}
+
 .card:hover .front {
     transform: perspective(600px) rotateY(-180deg);
 }
 
 .card:hover .back {
     transform: perspective(600px) rotateY(0deg);
+}
+
+.page:hover {
+    font-size: 18px;
+    font-weight: 800;
 }
