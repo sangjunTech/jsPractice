@@ -12,3 +12,7 @@ HTML, CSS ,Vanilla javascript로 작은 기능들을 구현하며 연습하는 �
  ## `2020/05/09`
 
  HTML & CSS를 이용한 card flip effect 연습.
+
+ ## `2020/05/13`
+
+ HTML CSS Vanilla Javascript를 이용한 appear effect 연습을 위한 미니 프로젝트 시작.
