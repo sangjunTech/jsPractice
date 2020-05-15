@@ -16,3 +16,7 @@ HTML, CSS ,Vanilla javascript로 작은 기능들을 구현하며 연습하는 �
  ## `2020/05/13`
 
  HTML CSS Vanilla Javascript를 이용한 appear effect 연습을 위한 미니 프로젝트 시작. `2020/05/14` vanilla javascript를 이용한 스크롤을 내리면 특정 위치에서 텍스트를 보여주는 효과 연습 종료.
+
+ ## `2020/05/15`
+
+ html css javascript를 이용한 뷰포트가 내려감에 따른 배경화면 변경 effect 연습.

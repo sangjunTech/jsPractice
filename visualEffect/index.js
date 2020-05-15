@@ -1,7 +1,7 @@
 function scrollAppear() {
-    var introText = document.querySelector('.intro_text');
-    var introPosition = introText.getBoundingClientRect().top;
-    var screenPosition = window.innerHeight /1.3;
+    const introText = document.querySelector('.intro_text');
+    const introPosition = introText.getBoundingClientRect().top;
+    const screenPosition = window.innerHeight /1.3;
 
     if(introPosition < screenPosition) {
         introText.classList.add('intro_appear');
