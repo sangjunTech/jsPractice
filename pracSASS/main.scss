@@ -6,3 +6,11 @@
         background-color: dodgerblue;
     }
 }
+
+@mixin large_font ($size : 30px) {
+    font-size: $size;
+}
+
+.item {
+    @include large_font(50px);
+}
