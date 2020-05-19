@@ -1,0 +1,16 @@
+.panel {
+    width: 300px;
+}
+
+.container {
+}
+
+.panel-heading {
+    font-weight: 800;
+    display: flex;
+    justify-content: center;
+}
+
+.password {
+    margin-bottom: 30px;
+}

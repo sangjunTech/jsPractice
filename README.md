@@ -27,3 +27,7 @@ HTML, CSS ,Vanilla javascript로 작은 기능들을 구현하며 연습하는 �
  ## `2020/05/20`
 
  growing border 효과 연습.
+
+ ## `2020/05/20`
+
+ bootstrap 기본 컴포넌트들 사용해보기.
