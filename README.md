@@ -23,3 +23,7 @@ HTML, CSS ,Vanilla javascript로 작은 기능들을 구현하며 연습하는 �
 
  ## `2020/05/15`
  SASS 연습을 위한 parcel-bundler --save-dev node-sass 다운로드.
+
+ ## `2020/05/20`
+
+ growing border 효과 연습.
