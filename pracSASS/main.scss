@@ -1,0 +1,16 @@
+.container {
+    $size: 100px;
+    .item {
+        width : $size * 3;
+        height: $size;
+        background-color: dodgerblue;
+    }
+}
+
+@mixin large_font ($size : 30px) {
+    font-size: $size;
+}
+
+.item {
+    @include large_font(50px);
+}
